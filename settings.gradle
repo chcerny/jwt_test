@@ -1,0 +1,3 @@
+rootProject.name = 'jwt_test'
+include 'src'
+
